@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="CentralinkSDK-1.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/devicemanagersdk/build/intermediates/exploded-aar/com.github.raywang1223/CentralinkSDK/1.0.1/jars/libs/IpcamFramework.jar!/" />
+      <root url="file://$PROJECT_DIR$/devicemanagersdk/build/intermediates/exploded-aar/com.github.raywang1223/CentralinkSDK/1.0.1/res" />
+      <root url="jar://$PROJECT_DIR$/devicemanagersdk/build/intermediates/exploded-aar/com.github.raywang1223/CentralinkSDK/1.0.1/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/devicemanagersdk/build/intermediates/exploded-aar/com.github.raywang1223/CentralinkSDK/1.0.1/jars/libs/DeviceManagerFramework.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
