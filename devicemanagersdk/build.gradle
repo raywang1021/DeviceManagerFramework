@@ -33,5 +33,5 @@ dependencies {
         transitive = true;
     }
     compile 'com.loopj.android:android-async-http:1.4.5'
-    compile 'com.github.raywang1223:CentralinkSDK:1.0.1'
+    compile 'com.github.raywang1223:CentralinkSDK:1.0.2'
 }
